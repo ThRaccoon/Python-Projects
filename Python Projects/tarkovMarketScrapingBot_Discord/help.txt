@@ -1,0 +1,5 @@
+!rhelp
+!h_ser [item name] - (half search) - fast
+!f_ser [item name] - (full search) - slow
+!q_ch [item name] - (Check for how many quests this item is needed) - fast
+!res_list [item name] - (See all of the results that the site is showing for the string you entered) - medium
