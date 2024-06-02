@@ -1,0 +1,6 @@
+!rhelp - [everyone]
+!rroll100 - (roll between 1 and 100) [everyone]
+!rroll [num1] [num2] - (you have to put num1 and num2 [between 1 - 1000]) [everyone]
+!rkick [user_name] [reason] - (kick) [only for mods]
+!rban [user_name] [reason] - (ban member) [only for mods]
+!rban_list - (list of ban members) [only for mods]
